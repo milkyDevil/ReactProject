@@ -1,4 +1,2 @@
-# BirthdayPpas2023
+# React Project
 
-Link to check
-https://milkydevil.github.io/BirthdayPpas2023/
